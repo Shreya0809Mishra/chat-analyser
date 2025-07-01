@@ -1,11 +1,11 @@
 
-import re
+
 import matplotlib.pyplot as plt
 
 
 import pandas as pd
 from wordcloud import WordCloud
-from collections import Counter
+
 import emoji
 
 def fetch_stats(selected_user,df):
