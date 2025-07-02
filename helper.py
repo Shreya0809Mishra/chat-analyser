@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 
 import pandas as pd
 from wordcloud import WordCloud
+from collections import counter
 
 import emoji
 
